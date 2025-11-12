@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "max_depth": null,
+    "min_samples_leaf": 2,
+    "n_estimators": 500
+  },
+  "best_score_neg_rmse": -1.2907363747538998
+}

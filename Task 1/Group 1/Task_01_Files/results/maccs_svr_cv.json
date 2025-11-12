@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "C": 10.0,
+    "epsilon": 0.2,
+    "gamma": "scale"
+  },
+  "best_score_neg_rmse": -1.2263980944946133
+}

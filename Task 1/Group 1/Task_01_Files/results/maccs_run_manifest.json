@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "notes": "Self-created 80/20 split for MACCS pipelines",
+  "files": {
+    "split_train": "data/splits/train_ids.txt",
+    "split_test": "data/splits/test_ids.txt",
+    "metrics_csv": "results/maccs_test_metrics.csv",
+    "rf_model": "models/maccs_rf.joblib",
+    "svr_model": "models/maccs_svr.joblib",
+    "figures": [
+      "figures/maccs_rf_pred_vs_true.png",
+      "figures/maccs_rf_residuals.png",
+      "figures/maccs_svr_pred_vs_true.png",
+      "figures/maccs_svr_residuals.png"
+    ]
+  }
+}

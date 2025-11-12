@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+Task 1/Group 1/Task_01_Files/models/
+Task 1/Group 1/task 1 files/models/
+*.joblib
+*.pkl
