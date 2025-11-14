@@ -1,0 +1,12 @@
+name: cheminf_phd_blog
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.13
+  - numpy=1.24.4
+  - scipy=1.12.0
+  - pandas=2.2.3
+  - rdkit=2024.03.5
+  - scikit-learn=1.6.1
+  - mordred=1.2.0
